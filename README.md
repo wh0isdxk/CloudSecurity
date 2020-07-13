@@ -1,5 +1,14 @@
 # GCP-Checklist
 
+<p align="center">
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.em360tech.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fgoogle-cloud-platform.png&f=1&nofb=1" width=458 height=213>
+
+
+</p>
+
+
+
 - [ ] Managing Identities — Manage your identities centrally. Make use of groups for ease of administration. Use os login to centrally manage who can SSH into your VM’s
 IAM
 
