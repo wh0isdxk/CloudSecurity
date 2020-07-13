@@ -1,4 +1,4 @@
-# GCP-Checklist
+# Google Cloud Platform Security Checklist
 
 <p align="center">
 
