@@ -63,3 +63,15 @@ IAM
 - [ ] Incident responses ( see operational efficiency)
 
 - [ ] Break glass access
+
+
+
+
+
+
+<p align="center">
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.michalsons.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcyber-security-1915626_1280.png&f=1&nofb=1" width=80 height=80>
+
+
+</p>
