@@ -9,9 +9,9 @@
 
 
 
-### AWS Checklist 
+### [AWS Checklist](https://github.com/wh0isdxk/CloudSecurity/blob/master/AWS-SecChecklist.md)
 
-### GCP Checklist 
+### [GCP Checklist](https://github.com/wh0isdxk/CloudSecurity/blob/master/GCP-SecChecklist.md)
 
 
 
